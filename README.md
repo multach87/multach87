@@ -1,16 +1,31 @@
-## Welcome! I'm Matt, and this is my Welcome Mat
+# Welcome! I'm Matt, and this is my Welcome Mat
 
-### I'm both a super-nerd and super-geek
+## I'm both a super-nerd and super-geek
+
+I am a statistician and behavioral researcher turned Data Scientist. I have an extensive background in all things applied research and stats, with a particular background in psychology and healthcare. I pride myself on quickly learning the ins-and-outs of new data contexts, and one of my favorite responsibilities as a PhD student was providing statistical and research consulting services to faculty and other graduate students in my department. I'm excited to take my wide-ranging data skills into industry settings. My short-term goals are to develop skills in Data Engineering and DevOps. In the longer-term, I look forward to applying those skills to effectively lead data teams and departments.
+
+Outside the realm of data, I geek out on tabletop roleplaying games (currently GM'ing an offbrand Star Wars setting called _Scum & Villainy_ and playing in two other campaigns); anime/manga (currently rewatching _Steins;Gate_); and sci-fi/fantasy literature (currently reading _Black Leopard, Red Wolf_ by Marlon James and _Abarat_ by Clive Barker).
+
+<br>
+
+## Some recent projects
+
+I am finishing a web-scraping project, which you can find <a href="https://github.com/multach87/Web_Scraping">here</a>. The data resulting from this project will be used to demonstrate a variety of machine learning techniques, ranging from basic algorithms to deep learning models. I'll add repos for those projects here once they're started, so keep an eye out for updates <img alt="CodeNeo" width="26px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/224/nerd-face_1f913.png" style="padding-right:10px;" /> 
 
 
-### Find me on:
+Want to see a walkthrough of the various tools I designed and used for my PhD dissertation research? Check out <a href="https://multach87.github.io/Robust_Lasso_ElasticNet/">this Pages repo</a>!
+
+<br>
+
+## Find me on:
 
 [<img align="left" alt="CodeNinja" width="26px" src="https://www.pngfind.com/pngs/m/101-1013043_download-linkedin-logo-round-png-transparent-png.png" style="padding-right:10px;" />](https://www.linkedin.com/in/mdmultach/)
 &nbsp;&nbsp;
 
+<br>
 
 
-### Languages & Tools:
+## Languages & Tools:
 
 Ninja - Expert (but always learning!) <img align="left" alt="CodeNinja" width="26px" src="https://www.emojirequest.com/images/NinjaEmoji.jpg" style="padding-right:10px;" /> :  
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
