@@ -60,7 +60,7 @@ Neophyte - Brief Experience and Excited to Learn More <img align="left" alt="Cod
   
 
 
-?QuelIcon? - No Experience but Interested (Short-to-Medium-Term) :  
+No Experience but Interested (Short-to-Medium-Term) :  
 
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="Azure" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
@@ -74,7 +74,7 @@ Neophyte - Brief Experience and Excited to Learn More <img align="left" alt="Cod
 
 
 
-?QuelIcon? - No Experience but Interested (Long-Term) :  
+No Experience but Interested (Long-Term) :  
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
