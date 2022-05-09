@@ -10,7 +10,7 @@ Outside the realm of data, I geek out on tabletop roleplaying games (currently G
 
 ## Some recent projects
 
-I am finishing a web-scraping project, which you can find <a href="https://github.com/multach87/Web_Scraping">here</a>. The data resulting from this project will be used to demonstrate a variety of machine learning techniques, ranging from basic algorithms to deep learning models. I'll add repos for those projects here once they're started, so keep an eye out for updates <img alt="CodeNeo" width="26px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/224/nerd-face_1f913.png" style="padding-right:10px;" /> 
+I am finishing a web-scraping project, which you can find <a href="https://github.com/multach87/Web_Scraping">here</a>. I will use the resulting data to demonstrate some machine learning techniques, ranging from basic algorithms to deep learning models. I'll add repos for those projects here once they're started, so keep an eye out for updates <img alt="CodeNeo" width="26px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/224/nerd-face_1f913.png" style="padding-right:10px;" /> 
 
 
 Want to see a walkthrough of the various tools I designed and used for my PhD dissertation research? Check out <a href="https://multach87.github.io/Robust_Lasso_ElasticNet/">this Pages repo</a>!
