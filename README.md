@@ -35,7 +35,7 @@ Ninja - Expert (but always learning!) <img align="left" alt="CodeNinja" width="2
 
 
 
-Scholar - Proficient with much to learn <img align="left" alt="CodeScholar" width="26px" src="https://grid.gograph.com/nerd-emoji-with-graduation-hat-eps-vector_gg121965562.jpg" style="padding-right:10px;" /> :  
+Scholar - Proficient, with much still to learn <img align="left" alt="CodeScholar" width="26px" src="https://grid.gograph.com/nerd-emoji-with-graduation-hat-eps-vector_gg121965562.jpg" style="padding-right:10px;" /> :  
 <img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="padding-right:10px;" />&nbsp;&nbsp;
